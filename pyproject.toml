@@ -1,6 +1,6 @@
 [project]
 name = "http-range-parser"
-version = "0.1.0"
+version = "0.1.1"
 description = "Parse and normalize the Range and Content-Range header field syntax into absolute byte intervals."
 requires-python = ">=3.10"
 dependencies = []
